@@ -1,4 +1,6 @@
-### Hi there, I am Mehul Goel
+### Hi there!👋🏼 I am Mehul Goel
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/mehulgoel/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (mailto:mehul939@gmail.com)
 
 <!--
 **mehulgo93/mehulgo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
