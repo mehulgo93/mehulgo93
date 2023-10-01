@@ -10,7 +10,7 @@ I am an experienced full-stack software engineer, with a background in Finance. 
 <!--   <img width="35%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djprofessorkash&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>         <!-- JavaScript -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>               <!--React -->
-  <code><img width="10%" height="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code> <!--TypeScript -->
+  <code><img width="10%" height=auto src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code> <!--TypeScript -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>               <!-- MongoDB -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>       <!-- Flask -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>   <!-- Django -->
