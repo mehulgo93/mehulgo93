@@ -6,20 +6,102 @@ I am an experienced full-stack software engineer, with a background in Finance. 
 
 
 #### 💻 Coding Languages and Competencies:
-<p>
-<!--   <img width="35%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djprofessorkash&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>         <!-- JavaScript -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>               <!--React -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> <!--TypeScript -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>               <!-- MongoDB -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>       <!-- Flask -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>   <!-- Django -->
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>                 <!-- Python -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>               <!-- Jupyter -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>               <!-- Git -->
-  <br />
-</p>
+<table>
+     <tr>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+            <br>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+            <br>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white">
+            <br>
+        </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+            <br>
+        </td>
+    </tr>
+    <tr>
+         <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
+            <br>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+            <br>
+        </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <br>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+            <br>
+        </td>
+        </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
+            <br>
+        </td>
+    </tr>
+    <tr>
+</table>
 
 
 <!--
