@@ -24,6 +24,9 @@ I am an experienced full-stack software engineer, with a background in Finance. 
             <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
             <br>
         </td>
+           <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+        </td>
     </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
@@ -67,6 +70,9 @@ I am an experienced full-stack software engineer, with a background in Finance. 
             <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
             <br>
         </td>
+         <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/SQLAlchemy-%230B3D91.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+        </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
             <br>
@@ -98,6 +104,9 @@ I am an experienced full-stack software engineer, with a background in Finance. 
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
             <br>
         </td>
+         <td align="center" style="border:1px solid #3A424A">
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+    </td>
     </tr>
     <tr>
 </table>
