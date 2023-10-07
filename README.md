@@ -20,6 +20,10 @@ I am an experienced full-stack software engineer, with a background in Finance. 
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
             <br>
         </td>
+           <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+            <br>
+        </td>
     </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
@@ -32,6 +36,11 @@ I am an experienced full-stack software engineer, with a background in Finance. 
         </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+            <br>
+        </td>
+          </td>
+          <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
             <br>
         </td>
     </tr>
@@ -50,11 +59,6 @@ I am an experienced full-stack software engineer, with a background in Finance. 
         </td>
           <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white">
-            <br>
-        </td>
-        </td>
-          <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
             <br>
         </td>
     </tr>
@@ -92,11 +96,6 @@ I am an experienced full-stack software engineer, with a background in Finance. 
         </td>
           <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-            <br>
-        </td>
-        </td>
-          <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
             <br>
         </td>
     </tr>
