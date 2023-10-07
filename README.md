@@ -46,6 +46,10 @@ I am an experienced full-stack software engineer, with a background in Finance. 
             <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
             <br>
         </td>
+     <td align="center" style="border:1px solid #3A424A">
+     <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white">
+          <br>
+     </td>
     </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
