@@ -185,6 +185,12 @@ I am an experienced full-stack software engineer, with a background in Finance. 
 </div>
 <br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehulgo93&show_icons=true&locale=en&layout=compact" alt="Mehul Goel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulgo93&show_icons=true&locale=en" alt="Mehul Goel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulgo93&" alt="Mehul Goel" /></p>
+
 
 
 <!--
