@@ -178,12 +178,7 @@ I am an experienced full-stack software engineer, with a background in Finance. 
     <img height="170" width="200" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sabashahbaz" />
   </a>
 </div> -->
-<div style="display: inline-block;">
-  <a href="https://github.com/mehulgo93/convoychat">
-    <img height="" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehulgo93&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
-<br/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehulgo93&show_icons=true&locale=en&layout=compact" alt="Mehul Goel" /></p>
 
