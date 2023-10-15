@@ -167,27 +167,10 @@ I am an experienced full-stack software engineer, with a background in Finance. 
 </table>
 
 
-<!-- GITHUB STATS -->
-  ## 📈 Github stats
-<!-- <a href="https://github.com/sabashahbaz/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sabashahbaz" />
-</a>
-<a href="https://github.com/sabashahbaz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabashahbaz&layout=compact&langs_count=8&card_width=320" />
-</a> -->
-
-<!-- <div style="display: inline-block;">
-  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sabashahbaz">
-    <img height="170" width="200" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sabashahbaz" />
-  </a>
-</div> -->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehulgo93&show_icons=true&locale=en&layout=compact" alt="Mehul Goel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulgo93&show_icons=true&locale=en" alt="Mehul Goel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulgo93&" alt="Mehul Goel" /></p>
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
+![Mehul's github activity graph](https://raw.githubusercontent.com/mehulgo93/mehulgo93/output/github-contribution-grid-snake.svg)
 
 
 
