@@ -167,10 +167,6 @@ I am an experienced full-stack software engineer, with a background in Finance. 
 </table>
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
-![Mehul's github activity graph](https://raw.githubusercontent.com/mehulgo93/mehulgo93/output/github-contribution-grid-snake.svg)
 
 
 
