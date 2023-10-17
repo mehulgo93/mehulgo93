@@ -5,8 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehulgoel/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehul939@gmail.com)
 
-I am an experienced full-stack software engineer, with a background in Finance. I am passionate about Machine learning and creating useful web applications.
+I'm deeply passionate about acquiring new skills and relentlessly seeking avenues to refine myself. From my academic journey at the University of Manchester where I studied Finance and Economics, I gained a deep analytical insight and a profound understanding of financial markets and economic trends. However, my thirst for knowledge didn't stop there. Recently graduating from the Flatiron School, I delved into the captivating realm of coding. Here, I acquired robust programming skills and established a strong foundation in software development. What's more, I've cultivated a burgeoning passion for machine learning, a field that fascinates me with its potential to transform industries and revolutionize decision-making.
 
+Beyond the algorithms and data sets, I'm also deeply enamored by the potential of the web. Creating useful, impactful, and user-centric web applications is something that I'm truly passionate about. It's the blend of utility, design, and functionality that drives me to produce digital solutions that matter.
 
 #### 💻 Coding Languages and Competencies:
 <table>
