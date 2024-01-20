@@ -73,7 +73,7 @@ Beyond the algorithms and data sets, I'm also deeply enamored by the potential o
             <br>
         </td>
           <td align="center" style="border:1px solid #3A424A">
-            <img src="https://camo.githubusercontent.com/9c2f1381d03b23626b66eb3372afe109aa0be6b50d1695c9ca939289290e39a7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a534f4e26636f6c6f723d303030303030266c6f676f3d4a534f4e266c6f676f436f6c6f723d464646464646266c6162656c3d">
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
             <br>
         </td>
     </tr>
