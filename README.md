@@ -123,7 +123,7 @@ Beyond the algorithms and data sets, I'm also deeply enamored by the potential o
 </table>
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulgo93&show_icons=true&locale=en" alt="mehul goel" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulgo93&" alt="mehul goel" /></p>
 
 
